@@ -1,0 +1,6 @@
+퇴근 후 회사의 업무를 이어서 할 경우 데이터 동기화가 필요
+git pull origin master
+git log
+touch 로그인.txt
+git add .
+git commit -m "로그인"
